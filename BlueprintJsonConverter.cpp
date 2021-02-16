@@ -1,6 +1,6 @@
 // Copyright 2020 by Sunspear Games
 
-#include "Utils/BlueprintJsonConverter.h"
+#include "BlueprintJsonConverter.h"
 
 #include "JsonObjectConverter.h"
 
